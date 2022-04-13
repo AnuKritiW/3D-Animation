@@ -1,0 +1,10 @@
+﻿  BVHPlayer.cpp
+C:\Users\anukr\Desktop\3D-Animation\BVHPlayer.cpp(89,62): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\anukr\Desktop\3D-Animation\BVHPlayer.cpp(131,31): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\anukr\Desktop\3D-Animation\BVHPlayer.cpp(213,44): warning C4244: '-=': conversion from 'double' to 'float', possible loss of data
+C:\Users\anukr\Desktop\3D-Animation\BVHPlayer.cpp(219,46): warning C4244: '-=': conversion from 'double' to 'float', possible loss of data
+C:\Users\anukr\Desktop\3D-Animation\BVHPlayer.cpp(227,49): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+C:\Users\anukr\Desktop\3D-Animation\BVHPlayer.cpp(382,49): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\anukr\Desktop\3D-Animation\BVHPlayer.cpp(384,49): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\anukr\Desktop\3D-Animation\BVHPlayer.cpp(401,38): warning C4305: 'argument': truncation from 'double' to 'GLclampf'
+  IKFK.vcxproj -> C:\Users\anukr\Desktop\3D-Animation\Debug\IKFK.exe

@@ -1,0 +1,4 @@
+C:\Users\anukr\Desktop\CS3242\3D-Animation-Projects\CS3242Assignment1-IKFK-template\Debug\IKFK.exe
+C:\Users\anukr\Desktop\CS3242\3D-Animation-Projects\CS3242Assignment1-IKFK-template\Debug\IKFK.pdb
+C:\Users\anukr\Desktop\3D-Animation\Debug\IKFK.exe
+C:\Users\anukr\Desktop\3D-Animation\Debug\IKFK.pdb
