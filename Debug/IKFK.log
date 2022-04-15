@@ -1,10 +1,19 @@
 ﻿  BVHPlayer.cpp
-C:\Users\anukr\Desktop\3D-Animation\BVHPlayer.cpp(89,62): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
-C:\Users\anukr\Desktop\3D-Animation\BVHPlayer.cpp(131,31): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
-C:\Users\anukr\Desktop\3D-Animation\BVHPlayer.cpp(213,44): warning C4244: '-=': conversion from 'double' to 'float', possible loss of data
-C:\Users\anukr\Desktop\3D-Animation\BVHPlayer.cpp(219,46): warning C4244: '-=': conversion from 'double' to 'float', possible loss of data
-C:\Users\anukr\Desktop\3D-Animation\BVHPlayer.cpp(227,49): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
-C:\Users\anukr\Desktop\3D-Animation\BVHPlayer.cpp(382,49): warning C4305: 'initializing': truncation from 'double' to 'float'
-C:\Users\anukr\Desktop\3D-Animation\BVHPlayer.cpp(384,49): warning C4305: 'initializing': truncation from 'double' to 'float'
-C:\Users\anukr\Desktop\3D-Animation\BVHPlayer.cpp(401,38): warning C4305: 'argument': truncation from 'double' to 'GLclampf'
+C:\Users\anukr\Desktop\3D-Animation\BVHPlayer.cpp(43,22): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\anukr\Desktop\3D-Animation\BVHPlayer.cpp(43,38): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\anukr\Desktop\3D-Animation\BVHPlayer.cpp(43,54): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\anukr\Desktop\3D-Animation\BVHPlayer.cpp(83,62): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\anukr\Desktop\3D-Animation\BVHPlayer.cpp(125,31): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\anukr\Desktop\3D-Animation\BVHPlayer.cpp(207,44): warning C4244: '-=': conversion from 'double' to 'float', possible loss of data
+C:\Users\anukr\Desktop\3D-Animation\BVHPlayer.cpp(213,46): warning C4244: '-=': conversion from 'double' to 'float', possible loss of data
+C:\Users\anukr\Desktop\3D-Animation\BVHPlayer.cpp(221,49): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+C:\Users\anukr\Desktop\3D-Animation\BVHPlayer.cpp(310,18): warning C4305: '-=': truncation from 'double' to 'float'
+C:\Users\anukr\Desktop\3D-Animation\BVHPlayer.cpp(313,18): warning C4305: '+=': truncation from 'double' to 'float'
+C:\Users\anukr\Desktop\3D-Animation\BVHPlayer.cpp(316,18): warning C4305: '+=': truncation from 'double' to 'float'
+C:\Users\anukr\Desktop\3D-Animation\BVHPlayer.cpp(319,18): warning C4305: '-=': truncation from 'double' to 'float'
+C:\Users\anukr\Desktop\3D-Animation\BVHPlayer.cpp(322,18): warning C4305: '-=': truncation from 'double' to 'float'
+C:\Users\anukr\Desktop\3D-Animation\BVHPlayer.cpp(325,18): warning C4305: '+=': truncation from 'double' to 'float'
+C:\Users\anukr\Desktop\3D-Animation\BVHPlayer.cpp(376,49): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\anukr\Desktop\3D-Animation\BVHPlayer.cpp(378,49): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\anukr\Desktop\3D-Animation\BVHPlayer.cpp(395,38): warning C4305: 'argument': truncation from 'double' to 'GLclampf'
   IKFK.vcxproj -> C:\Users\anukr\Desktop\3D-Animation\Debug\IKFK.exe
